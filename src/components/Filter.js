@@ -21,7 +21,7 @@ function Filter({ onFilterChange }) {
 	};
 
 	return (
-		<Form className="mb-4">
+		<Form className="mb-3">
 			<Row>
 				<Col md={6}>
 					<Form.Group controlId="titleFilter">
